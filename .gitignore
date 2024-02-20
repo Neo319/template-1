@@ -1,2 +1,8 @@
-dist
+# dist
 node_modules
+
+# .eslintrc.js
+# .prettierrc
+# package-lock.json
+# package.json
+# webpack.config.js
